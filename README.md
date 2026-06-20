@@ -1,6 +1,3 @@
-# Iris-EDA-FE
-Exploratory Data Analysis (EDA) and Feature Engineering on the Iris Dataset using Python, Pandas, Matplotlib, Seaborn, and Scikit-learn.
-
 # Iris Data Analysis Report
 
 ## Project Overview
