@@ -157,7 +157,7 @@ Key observations:
 ```text
 ├── iris_EDA.ipynb
 ├── iris_FE.ipynb
-├── Iris_EDA_FE_Insights.txt
+├── Iris_EDA_Insights.txt
 ├── README.md
 ```
 
